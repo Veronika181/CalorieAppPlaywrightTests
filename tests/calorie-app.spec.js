@@ -7,3 +7,4 @@ test('Start button opens next screen', async ({ page }) => {
 
   await expect(page.locator('#genderSelect')).toBeVisible();
 });
+cdfg
